@@ -42,3 +42,6 @@ A-B, A-C, A-D, B-C, B-D, C-D 중에서 A-C의 경우 **A-B-C, A-E-C**의 경로�
 
 ![vector](https://t1.daumcdn.net/cfile/tistory/214BDB4658CCF0DC11)
 
+## 출처
+
+* https://bab2min.tistory.com/554
