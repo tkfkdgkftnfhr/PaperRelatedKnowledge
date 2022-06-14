@@ -10,4 +10,4 @@
 
 
 ## 출처
-* https://m.dnews.co.kr/m_home/view.jsp?idxno=201711201426269590594
+* https://www.yna.co.kr/view/GYH20171120001500044
